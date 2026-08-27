@@ -27,4 +27,6 @@ Credits:
 
 Developed by the Harrow HK, Solutions Incubator Society. This repo reflects a multi-year collaboration with contributions from multiple members, from students and teachers to integrate the app into school life.
 
+/*Files have been omitted for privacy
+
 
