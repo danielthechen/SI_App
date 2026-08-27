@@ -1,2 +1,7 @@
-# SI_App
-Harrow Sixth Form App Archive Code 2026
+# SI app
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
